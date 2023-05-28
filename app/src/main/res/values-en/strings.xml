@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- GENERAL STRINGS -->
+    <string name="app_name">Password Generator</string>
+    <string name="app_name_full">Password Generator</string>
+    <!-- MAIN ACTIVITY STRINGS -->
+    <string name="activity_name">Home</string>
+    <string name="title_textview">Welcome, what do you want to do ?</string>
+    <string name="password_activity_button">Generate Password</string>
+    <string name="another_activity_button">Other</string>
+    <string name="exit_button">Exit</string>
+    <!-- PASSWORD ACTIVITY STRINGS -->
+    <string name="lbl_what_kind_of_password">CHOOSE RIGHT SETTINGS FOR YOUR PASSWORD</string>
+    <string name="lbl_alphabetic_letters">Enable Alphabetic letters</string>
+    <string name="lbl_lowercase_only">LowerCase only</string>
+    <string name="lbl_uppercase_only">UpperCase only</string>
+    <string name="lbl_lowercase_uppercase">Both</string>
+    <string name="lbl_numeric_characters">Numeric characters</string>
+    <string name="lbl_symbolic_characters">Enable Symbolic characters</string>
+    <string name="lbl_generate">Generate</string>
+    <string name="lbl_password_length">Password length</string>
+    <string name="dlg_error_check_one">One option at least must be checked</string>
+    <string name="dlg_password_copied">The password has been copied to clipboard !</string>
+    <!-- EXIT ALERT DIALOG -->
+    <string name="exit_dialog_title_text">Exit</string>
+    <string name="exit_dialog_message_text">Do you really want to quit ?</string>
+    <string name="exit_dialog_positive_answer_text">YES</string>
+    <string name="exit_dialog_negative_answer_text">NO</string>
+</resources>
